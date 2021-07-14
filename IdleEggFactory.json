@@ -1,0 +1,17 @@
+{
+	"DefaultValues": {
+
+		"AB_test_users": 100
+
+	},
+
+	"ABtests": {
+
+		"1_0_3_Ref": {
+			"panel_size": 100
+		},
+		"1_0_3_A": {
+			"panel_size": 100
+		}
+	}
+}
